@@ -1,0 +1,17 @@
+{
+  "name": "calendar-events",
+  "repo": "JayceTDE/calendar-events",
+  "description": "Add events to an instance of JayceTDE/calendar",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "JayceTDE/calendar": "*",
+    "component/classes": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
